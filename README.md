@@ -1,6 +1,6 @@
 # Echelle de l’intelligence artificielle dans l'évaluation
 # Présentation générale
-Je propose une traduction française de l’échelle d’intégration de l’IA générative dans les évaluations d’apprentissage ([*AI Assessment Scale* ou AIAS](https://leonfurze.com/2024/08/28/updating-the-ai-assessment-scale/)) développée par Leon Furze, Mike Perkins, Jasper Roe et Jason MacVaugh. Il s'agit d'une ressource éducative libre (REL) partageable et modifiable sous licence Creative Commons CC-BY-NC-SA.
+Je propose une traduction française de l’échelle d’intégration de l’IA générative dans les évaluations d’apprentissage ([*AI Assessment Scale* ou AIAS](https://leonfurze.com/2024/08/28/updating-the-ai-assessment-scale/)) développée par Leon Furze, Mike Perkins, Jasper Roe et Jason MacVaugh. Il s'agit d'une ressource éducative libre (REL) partageable et modifiable sous licence Creative Commons CC-BY-NC-SA. Des [traductions dans d'autres langues](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont également disponibles.
 
 <div align="center">
 	<img width="80%" height="80%" src="https://i0.wp.com/leonfurze.com/wp-content/uploads/2024/08/AIAS-2024-Final-6.png">
