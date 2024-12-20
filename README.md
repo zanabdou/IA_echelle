@@ -1,15 +1,22 @@
 # Echelle de l’intelligence artificielle dans l'évaluation
 # Présentation générale
-Je propose une traduction française de l’échelle d’intégration de l’IA générative (IAGen) dans les évaluations d’apprentissage ([*AI Assessment Scale* ou AIAS](https://leonfurze.com/2024/08/28/updating-the-ai-assessment-scale/)) développée par Leon Furze, Mike Perkins, Jasper Roe et Jason MacVaugh. La version actuelle (2024) révise la version initiale de [2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810). Il s'agit d'une ressource éducative libre (REL) partageable et modifiable sous licence Creative Commons CC-BY-NC-SA. Des [traductions dans d'autres langues](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont également disponibles.
+L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est une traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
-Le premier niveau du cadre correspond aux évaluations sans où l'utilisation de l'IA générative n'est pas permise. Les autres niveaux autorisent ou même requièrent l'utilisation de l'IA générative selon divers périmètres. Les apprenants doivent maintenir un engagement actif et une pensée critique, quel que soit le degré d'assistance autorisé. Chaque niveau exige une utilisation compétente de l'IAGen et dans des limites claires, afin de garantir l'intégrité académique tout en tirant parti des capacités de l'IAGen. L'échelle culmine à un cinquième niveau où apprenants et enseignants sont capables de co-créer avec l'IAGen.
+L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles.
 
-Ce cadre aide les enseignants à définir l'utilisation acceptable (ou requise) de l’IA générative multimodale par les apprenants dans les exercices et travaux d’évaluation. Ce cadre promeut la transparence dans l'utilisation de l'IA générative dans les apprentissages formels. Il vise à :
+[^1]: La version de 2024 révise sensiblement la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
+
+Ce cadre, flexible et adaptable, vise à :
 1) aider les éducateurs à concevoir des évaluations adaptées au à l'omniprésence de l’IA générative ;
 2) spécifier aux apprenants les attentes en termes d’utilisation de l'IA générative dans leurs travauxGen ;
-3) aider les apprenants à se conformer aux principes de l'intégrité académique.
+3) garantir l'intégrité académique, tout en tirant parti des capacités de l'IAGen.
 
 # Echelle de l’intelligence artificielle dans l'évaluation (EIAE)
+
+Le premier niveau du cadre correspond aux évaluations sans utilisation permise de l'IA générative. Cela suppose un environnement contrôlé pour garantir que l'évaluation porte directement sur les capacités et les compétences de base des apprenants (sans aide).
+
+Dans les autres niveaux, les apprennent peuvent ou doivent utiliser l'IA générative selon divers périmètres, tout en maintenant un engagement actif et une pensée critique. Chacun de ces niveaux exige donc une utilisation compétente de l'IAGen, dans des limites claires. L'échelle culmine à un cinquième niveau où apprenants et enseignants sont capables de co-concevoir avec l'IAGen.
+
 ## Version textuelle courte
 - **Sans IA** : vous ne devez utiliser l'IA à aucun moment de l'évaluation.
 - **Planification** : Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche.
