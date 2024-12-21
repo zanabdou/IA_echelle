@@ -4,12 +4,9 @@ L'Echelle d’intégration de l’IA générative dans les évaluations d’appr
 
 L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles.
 
-[^1]: La version de 2024 révise sensiblement la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
+[^1]: La version de 2024 présente d'importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
 
-Ce cadre, flexible et adaptable, vise à :
-1) aider les éducateurs à concevoir des évaluations adaptées au à l'omniprésence de l’IA générative ;
-2) spécifier aux apprenants les attentes en termes d’utilisation de l'IA générative dans leurs travauxGen ;
-3) garantir l'intégrité académique, tout en tirant parti des capacités de l'IAGen.
+Ce cadre souple peut s'appliquer à tout contexte éducatif, sans imposer de règles strictes. Il permets de favoriser un dialogue constructif entre enseignants et apprenants sur l'usage approprié de l'IA générative, et accompagne les enseignants dans l'adaptation de leurs évaluations dans un context d'IA générative omniprésente. Il permet donc aux enseignants de concevoir des évaluations pertinentes, de communiquer clairement aux apprenants les règles d'utilisation de l'IA générative dans leurs travaux, et finalement de maintenanir l'intégrité académique tout en exploitant le potentiel de outils d'IA générative multimodale.
 
 # Echelle de l’intelligence artificielle dans l'évaluation (EIAE)
 
@@ -50,11 +47,11 @@ Selon le contexte, la discipline et le type d'évaluation, différents niveaux d
 </div>
 
 ### Codes couleurs
-- niveau 1: #64DEFF
-- niveau 2: #C1FFD2
-- niveau 3: #C1CFFF
-- niveau 4: #FFF1C1
-- niveau 5: #FFC1EE 
+- niveau 1: `#64DEFF`
+- niveau 2: `#C1FFD2`
+- niveau 3: `#C1CFFF`
+- niveau 4: `#FFF1C1`
+- niveau 5: `#FFC1EE`
 
 ### Ressources modifiables
 Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
