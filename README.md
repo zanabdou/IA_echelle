@@ -6,7 +6,9 @@ L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous 
 
 [^1]: La version de 2024 présente d'importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
 
-Ce cadre souple peut s'appliquer à tout contexte éducatif, sans imposer de règles strictes. Il permets de favoriser un dialogue constructif entre enseignants et apprenants sur l'usage approprié de l'IA générative, et accompagne les enseignants dans l'adaptation de leurs évaluations dans un context d'IA générative omniprésente. Il permet donc aux enseignants de concevoir des évaluations pertinentes, de communiquer clairement aux apprenants les règles d'utilisation de l'IA générative dans leurs travaux, et finalement de maintenanir l'intégrité académique tout en exploitant le potentiel de outils d'IA générative multimodale.
+Ce cadre souple peut s'appliquer à tout contexte éducatif, sans imposer de règles strictes. Il permets de favoriser un dialogue constructif entre enseignants et apprenants sur l'usage approprié de l'IA générative, et accompagne les enseignants dans l'adaptation de leurs évaluations dans un contexte d'IA générative omniprésente. Il permet aux enseignants de concevoir des évaluations pertinentes, de communiquer clairement aux apprenants les règles d'utilisation de l'IA générative dans leurs travaux, et finalement de maintenanir l'intégrité académique tout en exploitant le potentiel de outils d'IA générative multimodale.
+
+C'est un **cadre pour l'alignement pédagogique de l'IA générative** avec les objectifs d'apprentissage et les évaluations envisagées.  
 
 # Echelle de l’intelligence artificielle dans l'évaluation (EIAE)
 
