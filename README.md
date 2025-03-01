@@ -3,7 +3,7 @@
 2. [C'est quoi l'Echelle de l’intelligence artificielle dans l'évaluation](EIAE)
 
 
-   ## Présentation 
+## Présentation 
 L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est une traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
 L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles.
