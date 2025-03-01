@@ -3,8 +3,12 @@
 2. [C'est quoi l'Echelle de l’intelligence artificielle dans l'évaluation](EIAE)
 3. [Parlez-moi de la Version textuelle courte](VersionC)
 4. [Parlez-moi de la Version textuelle longue](VersionL)
+5. [Versions graphiques](Versionsgraphiques)
+6. [Version anneaux](Anneaux)
 
-## Présentation 
+
+
+   ## Présentation 
 L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est une traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
 L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles.
@@ -41,13 +45,13 @@ Dans les autres niveaux, les apprennent peuvent ou doivent utiliser l'IA génér
 
 **5. EXPLORATION AVEC L’IA** - L’IA est utilisée de manière créative pour améliorer la résolution de problèmes, générer de nouvelles idées ou développer des solutions innovantes pour résoudre des problèmes. Les apprenants et les éducateurs co-conçoivent des évaluations pour explorer les applications originales de l'IA dans le domaine d'étude. *Vous devez utiliser l'IA de manière créative pour résoudre la tâche, en co-concevant éventuellement de nouvelles approches avec votre instructeur.*
 
-## Versions graphiques
+## Versionsgraphiques
 ### Table
 <div align="center">
 	<img width="90%" height="90%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png">
 </div>
 
-### Anneaux
+## Anneaux
 Selon le contexte, la discipline et le type d'évaluation, différents niveaux d'utilisation de l'IA peuvent être appropriés à différents moments. La représentation circulaire (non plus tablulaire) suggère que tous les niveaux méritent d'être considérés pour leur pertinence dans la conception de l'évaluation.
 
 <div align="center">
