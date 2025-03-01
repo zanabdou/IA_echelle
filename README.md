@@ -1,7 +1,8 @@
 # Echelle de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages
 1. [J'aimerais avoir une présentation générale de l'échelle](Présentation)
 2. [C'est quoi l'Echelle de l’intelligence artificielle dans l'évaluation](EIAE)
-
+3. [Parlez-moi de la Version textuelle courte](VersionC)
+4. [Parlez-moi de la Version textuelle longue](VersionL)
 
 ## Présentation 
 L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est une traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
@@ -20,15 +21,16 @@ Le premier niveau du cadre correspond aux évaluations sans utilisation permise 
 
 Dans les autres niveaux, les apprennent peuvent ou doivent utiliser l'IA générative selon divers périmètres, tout en maintenant un engagement actif et une pensée critique. Chacun de ces niveaux exige donc une utilisation compétente de l'IAGen, dans des limites claires. L'échelle culmine à un cinquième niveau où apprenants et enseignants sont capables de co-concevoir avec l'IAGen.
 
-## Version textuelle courte
+## VersionC
+**la Version textuelle courte**
 - **Sans IA** : vous ne devez utiliser l'IA à aucun moment de l'évaluation.
 - **Planification** : Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche.
 - **Collaboration** : Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.
 - **Intégration** : Vous pouvez utiliser l'IA pendant toute la durée de l'évaluation.
 - **Exploration** : Vous devez utiliser l'IA de manière créative pour résoudre la tâche.
 
-## Version textuelle longue
-
+## VersionL
+**la Version textuelle longue**
 **1. SANS IA** - L’évaluation est entièrement réalisée sans l'aide de l'IA dans un environnement contrôlé, garantissant que les apprenants s'appuient uniquement sur leurs connaissances, leur compréhension et leurs compétences existantes. *Vous ne devez pas utiliser l'IA à aucun moment de votre évaluation. Vous devez démontrer vos compétences et connaissances fondamentales.*
 
 **2. PRÉPARATION AVEC L’IA** - L'IA peut être utilisée pour des tâches préparatoires, telles que la recherche d’idées, la structuration et la recherche initiale. Ce niveau se concentre sur l'utilisation efficace de l'IA pour la planification, la synthèse et l'idéation, mais les évaluations doivent mettre l'accent sur la capacité à développer et à affiner ces idées de manière indépendante. *Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche. Votre soumission finale doit montrer comment vous avez développé et affiné ces idées.*
