@@ -1,6 +1,9 @@
 # Echelle de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages
 1. [J'aimerais avoir une présentation générale de l'échelle](Présentation)
-## Présentation 
+2. [C'est quoi l'Echelle de l’intelligence artificielle dans l'évaluation](EIAE)
+
+
+   ## Présentation 
 L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est une traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
 L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles.
@@ -11,7 +14,7 @@ Ce cadre souple peut s'appliquer à tout contexte éducatif, sans imposer de rè
 
 C'est un **cadre pour l'alignement pédagogique de l'IA générative** avec les objectifs d'apprentissage et les évaluations envisagées.  
 
-# Echelle de l’intelligence artificielle dans l'évaluation (EIAE)
+## EIAE
 
 Le premier niveau du cadre correspond aux évaluations sans utilisation permise de l'IA générative. Cela suppose un environnement contrôlé pour garantir que l'évaluation porte directement sur les capacités et les compétences de base des apprenants (sans aide).
 
