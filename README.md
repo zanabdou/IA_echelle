@@ -46,6 +46,9 @@ Dans les autres niveaux, les apprennent peuvent ou doivent utiliser l'IA génér
 **5. EXPLORATION AVEC L’IA** - L’IA est utilisée de manière créative pour améliorer la résolution de problèmes, générer de nouvelles idées ou développer des solutions innovantes pour résoudre des problèmes. Les apprenants et les éducateurs co-conçoivent des évaluations pour explorer les applications originales de l'IA dans le domaine d'étude. *Vous devez utiliser l'IA de manière créative pour résoudre la tâche, en co-concevant éventuellement de nouvelles approches avec votre instructeur.*
 
 ## Table
+
+![ECHELLE DE L'ÉVALUATION DE L'IA](https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png?raw=true)
+
 <div align="center">
 	<img width="90%" height="90%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png">
 </div>
