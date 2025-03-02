@@ -49,16 +49,13 @@ Dans les autres niveaux, les apprennent peuvent ou doivent utiliser l'IA génér
 
 ![ECHELLE DE L'ÉVALUATION DE L'IA](https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png?raw=true)
 
-<div align="center">
-	<img width="90%" height="90%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png">
-</div>
+
 
 ## Anneaux
 Selon le contexte, la discipline et le type d'évaluation, différents niveaux d'utilisation de l'IA peuvent être appropriés à différents moments. La représentation circulaire (non plus tablulaire) suggère que tous les niveaux méritent d'être considérés pour leur pertinence dans la conception de l'évaluation.
 
-<div align="center">
-	<img width="100%" height="100%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/aiasringsv2_FR.png">
-</div>
+[Anneaux](https://github.com/jourde/echelle-evaluation-avec-IA/raw/main/aiasringsv2_FR.png)
+
 
 ### Codes couleurs
 - niveau 1: `#64DEFF`
