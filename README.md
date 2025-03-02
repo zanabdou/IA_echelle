@@ -6,7 +6,6 @@
 5. [Versions graphiques](Table)
 6. [Version anneaux](Anneaux)
 
-
 ## Présentation 
 L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est une traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
